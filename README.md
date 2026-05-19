@@ -20,6 +20,8 @@
 - Login and see if you data is coming properly in store
 - NavBar should update as soon as user logs in
 - Refactor our code to add constants files + create a components folder
+- You shoud not be acces to other routes without login
+- If token is not prasent, redirect user to login page
 
 Body
 Navbar
