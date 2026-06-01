@@ -27,7 +27,8 @@
 - Build the user card on feed
 - Edit profile fetaure
 - Show tost message on save of profile
-- See all my connections
+- New page - See all my connections
+- New page - See all my Connection Requests
 
 Body
 Navbar
