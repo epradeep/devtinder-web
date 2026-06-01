@@ -30,10 +30,10 @@
 - New page - See all my connections
 - New page - See all my Connection Requests
 - Feature - Accept/Reject Connection Request
+- Send/ignore the user card from feed
 
 Remaining:
 
-- Send/ignore the user card from feed
 - Sigup new user
 - ETETesting
 
