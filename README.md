@@ -29,6 +29,13 @@
 - Show tost message on save of profile
 - New page - See all my connections
 - New page - See all my Connection Requests
+- Feature - Accept/Reject Connection Request
+
+Remaining:
+
+- Send/ignore the user card from feed
+- Sigup new user
+- ETETesting
 
 Body
 Navbar
