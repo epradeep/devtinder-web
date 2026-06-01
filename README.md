@@ -27,6 +27,7 @@
 - Build the user card on feed
 - Edit profile fetaure
 - Show tost message on save of profile
+- See all my connections
 
 Body
 Navbar
