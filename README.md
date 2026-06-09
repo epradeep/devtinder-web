@@ -97,3 +97,12 @@ Route=/profile => Profile
         proxy_set_header Connection "upgrade";
 
   }
+
+# Adding a custome Domain name
+
+- purchased domain name from godaddy
+- signup on cloudflare & add new domain name
+- change the name servers on godaddy and point it to cloudflare
+- wait for some time till your name servers are updated ~15 min
+- DNS record: A <DomainName> 13.207.185.115
+- Enable SSL for website
